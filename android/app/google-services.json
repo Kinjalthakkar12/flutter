@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294723372878",
+    "project_id": "food-panda-seller-69937",
+    "storage_bucket": "food-panda-seller-69937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294723372878:android:b300082fd842bb50ff401f",
+        "android_client_info": {
+          "package_name": "com.food.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294723372878-onv2fsrs7enjicb8opevv9p04t9ml51b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiUa9Q9eDgffla5LHX8Mana9nC3j8gVUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294723372878-onv2fsrs7enjicb8opevv9p04t9ml51b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
